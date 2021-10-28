@@ -1,0 +1,9 @@
+body {
+  background-color: green;
+}
+.title {
+  font-size: 70px;
+  color: blue;
+  padding: 50px;
+  font-family: fantasy;
+}
